@@ -1,0 +1,35 @@
+# Configure main menu and social menu
+[[main]]
+identifier = "home"
+name = "Home"
+url = "/"
+[main.params]
+icon = "home"
+newtab = true
+
+[[social]]
+identifier = "X"
+name = "X"
+url = "https://x.com/wojciehnet"
+
+[social.params]
+icon = "brand-twitter"
+newtab = true
+
+[[social]]
+identifier = "Facebook"
+name = "Facebook Page"
+url = "https://www.facebook.com/wojciehnet"
+
+[social.params]
+icon = "brand-facebook"
+newtab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/wojciehm"
+
+[social.params]
+icon = "brand-github"
+newtab = true

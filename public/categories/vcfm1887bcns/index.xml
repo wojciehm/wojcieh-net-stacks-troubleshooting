@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>VCFM1887BCNS on Wojciech Marusiak</title>
+        <link>http://localhost:1313/categories/vcfm1887bcns/</link>
+        <description>Recent content in VCFM1887BCNS on Wojciech Marusiak</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 29 Oct 2024 10:52:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/vcfm1887bcns/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My VMware Explore 2024 Session</title>
+        <link>http://localhost:1313/p/my-vmware-explore-2024-session/</link>
+        <pubDate>Tue, 29 Oct 2024 10:52:11 +0100</pubDate>
+        
+        <guid>http://localhost:1313/p/my-vmware-explore-2024-session/</guid>
+        <description>&lt;p&gt;This Year I will be present at VMware Explore 2024 session called &lt;strong&gt;Google Expert Roundtable: Simplify VMware Migration with Google Experts [VCFM1887BCNS]&lt;/strong&gt;. Together with Jason Meers we will focus on migration of VMware workloads to Google Cloud.&lt;/p&gt;
+&lt;p&gt;Here is the session excerpt.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Feeling overwhelmed by the complexities of migrating your VMware workloads to the cloud? Join our Google Cloud expert roundtable on Google Cloud VMware Engine (GCVE) and learn proven strategies for a seamless transition. Our team will guide you through every step of the process, covering pre-migration assessment and planning, optimizing HCX configurations for seamless data transfer, network considerations and best practices, addressing security and compliance requirements, and post-migration validation and optimization. Whether you&amp;rsquo;re a seasoned cloud professional or new to cloud migration, this expert roundtable will equip you with the knowledge and tools needed to confidently migrate your VMware workloads to GCVE and unlock the full potential of the cloud.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--adsense--&gt;
+&lt;p&gt;Feel free to join me as well at Google Cloud booth where we will hold some extra in booth sessions and you can win some cool prizes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¡Nos vemos en el Barça!&lt;/strong&gt;&lt;/p&gt;
+&lt;!---
+Get-ChildItem -Path . | select Name
+--&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

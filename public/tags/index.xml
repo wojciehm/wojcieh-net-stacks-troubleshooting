@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Wojciech Marusiak</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Recent content in Tags on Wojciech Marusiak</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 29 Oct 2024 10:52:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Barcelona</title>
+        <link>http://localhost:1313/tags/barcelona/</link>
+        <pubDate>Tue, 29 Oct 2024 10:52:11 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/barcelona/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Conference</title>
+        <link>http://localhost:1313/tags/conference/</link>
+        <pubDate>Tue, 29 Oct 2024 10:52:11 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/conference/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>VCFM1887BCNS</title>
+        <link>http://localhost:1313/tags/vcfm1887bcns/</link>
+        <pubDate>Tue, 29 Oct 2024 10:52:11 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/vcfm1887bcns/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>VMware Explore 2024</title>
+        <link>http://localhost:1313/tags/vmware-explore-2024/</link>
+        <pubDate>Tue, 29 Oct 2024 10:52:11 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/vmware-explore-2024/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>VMworld</title>
+        <link>http://localhost:1313/tags/vmworld/</link>
+        <pubDate>Tue, 29 Oct 2024 10:52:11 +0100</pubDate>
+        
+        <guid>http://localhost:1313/tags/vmworld/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>VMware Explore</title>
+        <link>http://localhost:1313/tags/vmware-explore/</link>
+        <pubDate>Sat, 26 Oct 2024 11:38:13 +0200</pubDate>
+        
+        <guid>http://localhost:1313/tags/vmware-explore/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

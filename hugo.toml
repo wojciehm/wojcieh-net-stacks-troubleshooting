@@ -1,0 +1,14 @@
+baseURL = 'https://www.wojcieh.net'
+languageCode = 'en-us'
+title = 'Wojciech Marusiak IT Blog'
+theme = 'hugo-theme-stack'
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-84JF3TQQC6'
+[params]
+ gtm_id = 'GTM-PZFTBP'
+
+[permalinks]
+    post = "/:title"
+    page = "/:slug"

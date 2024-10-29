@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>VMworld on Wojciech Marusiak</title>
+        <link>http://localhost:1313/categories/vmworld/</link>
+        <description>Recent content in VMworld on Wojciech Marusiak</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 29 Oct 2024 10:52:11 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/vmworld/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My VMware Explore 2024 Session</title>
+        <link>http://localhost:1313/p/my-vmware-explore-2024-session/</link>
+        <pubDate>Tue, 29 Oct 2024 10:52:11 +0100</pubDate>
+        
+        <guid>http://localhost:1313/p/my-vmware-explore-2024-session/</guid>
+        <description>&lt;p&gt;This Year I will be present at VMware Explore 2024 session called &lt;strong&gt;Google Expert Roundtable: Simplify VMware Migration with Google Experts [VCFM1887BCNS]&lt;/strong&gt;. Together with Jason Meers we will focus on migration of VMware workloads to Google Cloud.&lt;/p&gt;
+&lt;p&gt;Here is the session excerpt.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Feeling overwhelmed by the complexities of migrating your VMware workloads to the cloud? Join our Google Cloud expert roundtable on Google Cloud VMware Engine (GCVE) and learn proven strategies for a seamless transition. Our team will guide you through every step of the process, covering pre-migration assessment and planning, optimizing HCX configurations for seamless data transfer, network considerations and best practices, addressing security and compliance requirements, and post-migration validation and optimization. Whether you&amp;rsquo;re a seasoned cloud professional or new to cloud migration, this expert roundtable will equip you with the knowledge and tools needed to confidently migrate your VMware workloads to GCVE and unlock the full potential of the cloud.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;!--adsense--&gt;
+&lt;p&gt;Feel free to join me as well at Google Cloud booth where we will hold some extra in booth sessions and you can win some cool prizes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¡Nos vemos en el Barça!&lt;/strong&gt;&lt;/p&gt;
+&lt;!---
+Get-ChildItem -Path . | select Name
+--&gt;</description>
+        </item>
+        <item>
+        <title>Google Cloud VMware Engine Sessions at VMware Explore 2024 Barcelona</title>
+        <link>http://localhost:1313/p/google-cloud-vmware-engine-sessions-at-vmware-explore-2024-barcelona/</link>
+        <pubDate>Sat, 26 Oct 2024 11:38:13 +0200</pubDate>
+        
+        <guid>http://localhost:1313/p/google-cloud-vmware-engine-sessions-at-vmware-explore-2024-barcelona/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/uploads/2023/10/vmware-explore-live-broadcast.webp&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;VMware Explore 2024 Barcelona Live Broadcast&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;VMware Explore 2024 Barcelona is just around the corner! Next week, thousands will gather in Spain for this exciting conference.  While there will be many great sessions from various vendors and the VMware community, I highly recommend checking out the sessions on Google Cloud VMware Engine.&lt;/p&gt;
+&lt;!--adsense--&gt;
+&lt;p&gt;As a Cloud Engineer working with customers, I&amp;rsquo;ve seen firsthand how Google Cloud VMware Engine (GCVE) is a top choice for those looking to begin their Google Cloud journey.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve compiled a list of all the sessions where the GCVE team will be showcasing our solution.  Also, make sure to stop by booth 305 to chat with me or another GCVE expert.&lt;/p&gt;
+&lt;p&gt;Hope to see you in Barcelona!&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th&gt;Time (CET)&lt;/th&gt;
+          &lt;th&gt;Session&lt;/th&gt;
+          &lt;th&gt;Speakers&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Monday, 4 Nov&lt;/td&gt;
+          &lt;td&gt;14:00 - 14:45&lt;/td&gt;
+          &lt;td&gt;5 Advantages of VMware Cloud Foundation and Google Cloud VMware Engine [VCFB1661BCN]&lt;/td&gt;
+          &lt;td&gt;Myke Rylance, Client Services Consultant, Broadcom; Alberto Zoppi, Client Services Consultant, Broadcom&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Monday, 4 Nov&lt;/td&gt;
+          &lt;td&gt;15:15 - 16:00&lt;/td&gt;
+          &lt;td&gt;Accelerate AI Training Workloads with VCF and Google Cloud AI Hypercomputer [INVB1891BCNS]&lt;/td&gt;
+          &lt;td&gt;Slava Vladyshevsky, Practice Lead, Infrastructure Solutions, Google; Alex Moore, Technology Practice Lead, Infrastructure, Google&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Monday, 4 Nov&lt;/td&gt;
+          &lt;td&gt;12:00 - 12:30&lt;/td&gt;
+          &lt;td&gt;Fast Track to Resilience: Google Cloud Backup &amp;amp; DR [SPON2237BCNS]&lt;/td&gt;
+          &lt;td&gt;Jeff O&amp;rsquo;Connor, Solutions Engineer, Google&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Monday, 4 Nov / Tuesday, 5 Nov&lt;/td&gt;
+          &lt;td&gt;11:00 - 11:30 / 15:00 - 15:30&lt;/td&gt;
+          &lt;td&gt;Google Cloud VMware Engine and VMware Cloud Foundation Licensing Updates [VCFM1886BCNS]&lt;/td&gt;
+          &lt;td&gt;Wessel Gans, Solution Lead EMEA, Google Cloud&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Monday, 4 Nov / Wednesday, 6 Nov&lt;/td&gt;
+          &lt;td&gt;12:30 - 13:00 / 10:30 - 11:00&lt;/td&gt;
+          &lt;td&gt;Google Expert Roundtable: Simplify VMware Migration with Google Experts [VCFM1887BCNS]&lt;/td&gt;
+          &lt;td&gt;Jason Meers, Google Cloud VMware Engine, Google Cloud; Wojciech Marusiak, Customer Engineer, Google Cloud&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tuesday, 5 Nov&lt;/td&gt;
+          &lt;td&gt;13:30 - 13:50&lt;/td&gt;
+          &lt;td&gt;Google Cloud VMware Engine: Fueled By Google Cloud NetApp Volumes [EXPO1908BCNS]&lt;/td&gt;
+          &lt;td&gt;Agnieszka Koziorowska, Google Cloud VMware Engine EMEA Tech Lead, Google Cloud; Wessel Gans, Solution Lead EMEA, Google Cloud&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tuesday, 5 Nov&lt;/td&gt;
+          &lt;td&gt;11:00 - 11:30&lt;/td&gt;
+          &lt;td&gt;Unlock Your VCF Investment: The Power of License Portability [SPON1909BCNS]&lt;/td&gt;
+          &lt;td&gt;Wessel Gans, Solution Lead EMEA, Google Cloud&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Wednesday, 6 Nov&lt;/td&gt;
+          &lt;td&gt;14:00 - 14:45&lt;/td&gt;
+          &lt;td&gt;Architecting for Success: Google Cloud VMware Engine Key Design Patterns [VCFB1889BCNS]&lt;/td&gt;
+          &lt;td&gt;Vivek Lodha, Specialist Customer Engineer, Google Cloud; Ken Bocchino, Sr Product Manager, Google Cloud&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Wednesday, 6 Nov&lt;/td&gt;
+          &lt;td&gt;12:45 - 13:30&lt;/td&gt;
+          &lt;td&gt;Deep Dive on Storage, Backup and DR with Google Cloud VMware Engine [VCFB1890BCNS]&lt;/td&gt;
+          &lt;td&gt;Agnieszka Koziorowska, Google Cloud VMware Engine EMEA Tech Lead, Google Cloud; Jeff O&amp;rsquo;Connor, Solutions Engineer, Google&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Wednesday, 6 Nov&lt;/td&gt;
+          &lt;td&gt;10:15 - 11:00&lt;/td&gt;
+          &lt;td&gt;Simplify Your AI Journey with VMware Cloud Foundation and AI Technology on Google Cloud [VCFB1893BCNS]&lt;/td&gt;
+          &lt;td&gt;Robert Riemer, Customer Engineer, Google Cloud&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Wednesday, 6 Nov&lt;/td&gt;
+          &lt;td&gt;11:30 - 12:15&lt;/td&gt;
+          &lt;td&gt;The Future of VMware is on Google Cloud: 10 Key Innovations [VCFB1892BCNS]&lt;/td&gt;
+          &lt;td&gt;Ibrahima N&amp;rsquo;doye, Customer Engineer, Google Cloud; Alessandro Lorusso, Customer Engineer, Google Cloud&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Wednesday, 6 Nov&lt;/td&gt;
+          &lt;td&gt;09:00 - 09:45&lt;/td&gt;
+          &lt;td&gt;Thrive in the Changing Business Landscape with Google Cloud VMware Engine [VCFB1902BCNS]&lt;/td&gt;
+          &lt;td&gt;Georgina Schaefer, Sales Specialist, Google Cloud; Manmeet Marwah, Director, Google Business Unit, Wipro; Ken Bocchino, Sr Product Manager, Google Cloud&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;If you would like to find all those listed sessions simply visit the URL &lt;a class=&#34;link&#34; href=&#34;https://event.vmware.com/flow/vmware/explore2024bcn/content/page/catalog?search=&amp;amp;tab.contentcatalogtabs=1627421929827001vRXW&amp;amp;search.products=1617723187121004evLt&#34;  title=&#34;List of all Google Cloud VMware Engine Sessions&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;List of all Google Cloud VMware Engine Sessions&lt;/a&gt;.&lt;/p&gt;
+&lt;!---
+Get-ChildItem -Path . | select NAM CETe
+--&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
